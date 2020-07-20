@@ -1,0 +1,2 @@
+El programa funciona con todos los excel, pero el "MostControversial", que genera conflictos, igualmente en al funcion que mando el profe a veces falla y a veces no, es raro.
+Creo que el formato del archivo es distinto o falla algo en el, pero eso seria.
